@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @wangqioo
+- 👋 Hi, I’m @Qi Wang
 - 👀 I’m interested in esp32 and stm32
 - 🌱 I’m currently learning c++ and python
 - 💞️ I’m looking to collaborate on ROS
