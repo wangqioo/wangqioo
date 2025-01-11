@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wangqioo
-- 👀 I’m interested in esp32
+- 👀 I’m interested in esp32 and stm32
 - 🌱 I’m currently learning c++ and python
 - 💞️ I’m looking to collaborate on ROS
 - 📫 How to reach me ? My QQ number: 1823871691
