@@ -176,6 +176,21 @@ class QiWang:
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" />
 
+## 🏙️ Based in Shanghai
+
+<div align="center">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Shanghai_skyline_2015.jpg/1280px-Shanghai_skyline_2015.jpg" width="80%" style="border-radius:12px;" alt="Shanghai Skyline" />
+
+<br/>
+<sub>📍 Lujiazui · 陆家嘴金融城</sub>
+
+</div>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" />
+
 ## 🤝 Connect With Me
 
 <div align="center">
