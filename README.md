@@ -24,7 +24,7 @@
 ```python
 class QiWang:
     pronouns   = "He / Him"
-    location   = "🏙️ Shanghai Pudong, China"
+    location   = "🏙️ Shanghai, China"
 
     hardware   = ["ESP32-S3", "STM32", "K230",
                   "Jetson Orin Nano", "Raspberry Pi"]
@@ -197,7 +197,7 @@ class QiWang:
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wangqioo)
 [![QQ](https://img.shields.io/badge/QQ-1823871691-12B7F5?style=for-the-badge&logo=tencentqq&logoColor=white)](https://qm.qq.com)
-[![Location](https://img.shields.io/badge/📍_Shanghai_Pudong,_China-FF5722?style=for-the-badge)](https://github.com/wangqioo)
+[![Location](https://img.shields.io/badge/📍_Shanghai,_China-FF5722?style=for-the-badge)](https://github.com/wangqioo)
 
 <br/>
 
