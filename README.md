@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Making+edge+devices+think+with+AI+%F0%9F%A4%96;ESP32+%7C+K230+%7C+Jetson+Orin+Nano+%7C+STM32;Building+the+AI+nervous+system+of+the+future+%F0%9F%A7%A0" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=120&lines=Making+edge+devices+think+with+AI+%F0%9F%A4%96;ESP32+%7C+K230+%7C+Jetson+Orin+Nano+%7C+STM32;Building+the+AI+nervous+system+of+the+future+%F0%9F%A7%A0" alt="Typing SVG" />
 
 <br/>
 
