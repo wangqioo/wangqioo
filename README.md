@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Qi%20Wang%20%E7%8E%8B%E7%90%A6&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Embedded%20AI%20%7C%20Edge%20Computing%20%7C%20Robotics&descSize=18&descAlignY=58&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Qi%20Wang&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Embedded%20AI%20%7C%20Edge%20Computing%20%7C%20Robotics&descSize=18&descAlignY=58&descAlign=50" />
 
 <div align="center">
 
