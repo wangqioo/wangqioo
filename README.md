@@ -4,7 +4,19 @@ I like putting AI next to real circuits: tiny screens, serial logs, BLE packets,
 
 My projects are usually small laboratories for one question: what happens when an LLM can see the board context, write the firmware, flash the device, read the logs, and improve the next attempt?
 
+<p>
+  <img alt="ESP32-S3" src="https://img.shields.io/badge/ESP32--S3-MCU-0ea5e9?style=flat-square" />
+  <img alt="K230" src="https://img.shields.io/badge/K230-Edge%20AI-22c55e?style=flat-square" />
+  <img alt="Jetson" src="https://img.shields.io/badge/Jetson-Orin-76b900?style=flat-square" />
+  <img alt="BLE" src="https://img.shields.io/badge/BLE-Device%20Protocols-8b5cf6?style=flat-square" />
+  <img alt="Edge Agents" src="https://img.shields.io/badge/Edge-Agents-f97316?style=flat-square" />
+</p>
+
 ## What I'm Exploring
+
+```text
+LLM -> board context -> firmware -> flash -> logs -> next iteration
+```
 
 - Devices that feel less like peripherals and more like useful field agents.
 - Hardware development loops where describe, generate, build, flash, observe, and improve happen in one flow.
@@ -12,18 +24,18 @@ My projects are usually small laboratories for one question: what happens when a
 
 ## Featured AI + Hardware Projects
 
-| Project | Interesting technical angle |
-| --- | --- |
-| [VibeBoard](https://github.com/wangqioo/VibeBoard) | ESP-IDF-first AI hardware workspace: board profiles, hardware-aware project files, natural-language MCU app generation. |
-| [esp32-vibe-coder](https://github.com/wangqioo/esp32-vibe-coder) | Browser-based embedded IDE with hardware context, cloud build, OTA flashing, serial logs, and AI log analysis. |
-| [WalnutPi](https://github.com/wangqioo/WalnutPi) | Portable headless Linux AI terminal with local execution, screen UI, voice input, deploy scripts, and board notes. |
-| [AI-Workflow-Terminal](https://github.com/wangqioo/AI-Workflow-Terminal) | Jetson Orin + GPU server edge AI workstation with workflow engines, local web apps, and cloud relay. |
-| [k230-ai-companion](https://github.com/wangqioo/k230-ai-companion) | K230 desktop companion combining voice interaction, expression animation, and optional visual perception. |
-| [Rokid-AIUI](https://github.com/wangqioo/Rokid-AIUI) | Contract-driven AIUI model for reliable AI agents on glasses-style HUD devices. |
-| [voice-keyboard](https://github.com/wangqioo/voice-keyboard) | Local voice input and intent engine for desktop and device-side AI workflows. |
-| [PartRack-Hardware](https://github.com/wangqioo/PartRack-Hardware) | nRF52 hardware/firmware workspace for BLE protocol, NFC wake, LED control, and DFU on a smart parts base. |
-| [EspLink](https://github.com/wangqioo/EspLink) | ESP32-S3 provisioning flow using WeChat mini program BLE scanning, BluFi Wi-Fi setup, and firmware state machines. |
-| [huangshan-pi-sf32-dev](https://github.com/wangqioo/huangshan-pi-sf32-dev) | Huangshan Pi / SiFli workspace for board/app separation, SDK usage, examples, and hardware learning notes. |
+| Project | Track | Interesting technical angle |
+| --- | --- | --- |
+| [VibeBoard](https://github.com/wangqioo/VibeBoard) | MCU / ESP-IDF | AI hardware workspace: board profiles, hardware-aware project files, natural-language MCU app generation. |
+| [esp32-vibe-coder](https://github.com/wangqioo/esp32-vibe-coder) | Web IDE / OTA | Browser-based embedded IDE with hardware context, cloud build, OTA flashing, serial logs, and AI log analysis. |
+| [WalnutPi](https://github.com/wangqioo/WalnutPi) | Linux Board / Terminal | Portable headless AI terminal with local execution, screen UI, voice input, deploy scripts, and board notes. |
+| [AI-Workflow-Terminal](https://github.com/wangqioo/AI-Workflow-Terminal) | Jetson / Edge AI | Jetson Orin + GPU server workstation with workflow engines, local web apps, and cloud relay. |
+| [k230-ai-companion](https://github.com/wangqioo/k230-ai-companion) | K230 / Voice + Vision | Desktop companion combining voice interaction, expression animation, and optional visual perception. |
+| [Rokid-AIUI](https://github.com/wangqioo/Rokid-AIUI) | AIUI / Glasses HUD | Contract-driven AIUI model for reliable AI agents on glasses-style HUD devices. |
+| [voice-keyboard](https://github.com/wangqioo/voice-keyboard) | Voice / Intent Engine | Local voice input and intent engine for desktop and device-side AI workflows. |
+| [PartRack-Hardware](https://github.com/wangqioo/PartRack-Hardware) | nRF52 / BLE | Hardware and firmware workspace for BLE protocol, NFC wake, LED control, and DFU on a smart parts base. |
+| [EspLink](https://github.com/wangqioo/EspLink) | ESP32-S3 / Provisioning | WeChat mini program BLE scanning, BluFi Wi-Fi setup, and firmware state machines. |
+| [huangshan-pi-sf32-dev](https://github.com/wangqioo/huangshan-pi-sf32-dev) | SiFli / Board Bring-up | Huangshan Pi workspace for board/app separation, SDK usage, examples, and hardware learning notes. |
 
 ## Technical Themes
 
