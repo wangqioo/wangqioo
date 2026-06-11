@@ -4,6 +4,12 @@ I build AI hardware systems, edge-agent workflows, and embedded developer tools 
 
 Most of my work sits at the boundary between software and hardware: board profiles, firmware generation, local execution agents, voice input, BLE protocols, edge inference, device dashboards, and deployable prototypes.
 
+## What I'm Exploring
+
+- Making small devices feel more like useful agents, not just connected peripherals.
+- Turning hardware development into a tight loop: describe, generate, build, flash, observe, and improve.
+- Designing constrained AI interfaces for terminals, small screens, glasses HUDs, and board dashboards.
+
 ## Featured AI + Hardware Projects
 
 | Project | Interesting technical angle |
