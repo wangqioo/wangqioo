@@ -6,29 +6,6 @@ Most of my work sits at the boundary between software and hardware: board profil
 
 ## Featured AI + Hardware Projects
 
-<div align="center">
-
-<a href="https://github.com/wangqioo/VibeBoard">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wangqioo&repo=VibeBoard&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff" />
-</a>
-<a href="https://github.com/wangqioo/esp32-vibe-coder">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wangqioo&repo=esp32-vibe-coder&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff" />
-</a>
-<a href="https://github.com/wangqioo/WalnutPi">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wangqioo&repo=WalnutPi&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff" />
-</a>
-<a href="https://github.com/wangqioo/AI-Workflow-Terminal">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wangqioo&repo=AI-Workflow-Terminal&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff" />
-</a>
-<a href="https://github.com/wangqioo/k230-ai-companion">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wangqioo&repo=k230-ai-companion&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff" />
-</a>
-<a href="https://github.com/wangqioo/Rokid-AIUI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wangqioo&repo=Rokid-AIUI&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff" />
-</a>
-
-</div>
-
 | Project | Interesting technical angle |
 | --- | --- |
 | [VibeBoard](https://github.com/wangqioo/VibeBoard) | ESP-IDF-first AI hardware workspace: board profiles, hardware-aware project files, natural-language MCU app generation. |
