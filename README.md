@@ -1,125 +1,10 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Qi%20Wang&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Embedded%20AI%20%7C%20Edge%20Computing%20%7C%20Robotics&descSize=18&descAlignY=58&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Qi%20Wang&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=38&desc=AI%20Hardware%20%7C%20Edge%20Agents%20%7C%20Embedded%20Systems&descSize=17&descAlignY=62&descAlign=50" />
 
-<div align="center">
+I build AI hardware systems, edge-agent workflows, and embedded developer tools that connect LLMs to real devices.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=120&lines=Making+edge+devices+think+with+AI+%F0%9F%A4%96;ESP32+%7C+K230+%7C+Jetson+Orin+Nano+%7C+STM32;Building+the+AI+nervous+system+of+the+future+%F0%9F%A7%A0" alt="Typing SVG" />
+Most of my work sits at the boundary between software and hardware: board profiles, firmware generation, local execution agents, voice input, BLE protocols, edge inference, device dashboards, and deployable prototypes.
 
-<br/>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=wangqioo&label=👁️%20Profile%20Views&color=blueviolet&style=flat-square)](https://github.com/wangqioo)
-[![GitHub followers](https://img.shields.io/github/followers/wangqioo?label=👥%20Followers&style=flat-square&color=orange)](https://github.com/wangqioo?tab=followers)
-[![Repos](https://img.shields.io/badge/📦%20Public%20Repos-70+-blue?style=flat-square)](https://github.com/wangqioo?tab=repositories)
-[![Years](https://img.shields.io/badge/⚡%20Since-2021-green?style=flat-square)](https://github.com/wangqioo)
-
-</div>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" />
-
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
-
-<img align="right" alt="coding" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
-
-```python
-class QiWang:
-    pronouns   = "He / Him"
-    location   = "🏙️ Shanghai, China"
-
-    hardware   = ["ESP32-S3", "STM32", "K230",
-                  "Jetson Orin Nano", "Raspberry Pi"]
-
-    ai_stack   = ["Claude", "DeepSeek", "Qwen",
-                  "vLLM", "FunASR", "LVGL"]
-
-    robotics   = ["ROS2", "FOC Motor Control",
-                  "Edge Inference", "Embodied AI"]
-
-    passion    = "Fusing AI with real-world hardware 🔌"
-    building   = "Personal AI Nervous System (nervus-v2)"
-    learning   = ["C++20", "ROS2", "MLIR"]
-    contact    = "QQ: 1823871691"
-
-    def life_motto(self):
-        return "MCUs don't think. Until I make them. 🤖"
-```
-
-<br clear="right"/>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" />
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> Tech Arsenal
-
-<div align="center">
-
-### 🔧 Languages
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,js,ts,dart,vue,bash&theme=dark)](https://skillicons.dev)
-
-### 🖥️ Frameworks & Cloud
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,fastapi,docker,linux,git,nginx,vite&theme=dark)](https://skillicons.dev)
-
-### 🤖 Embedded & Edge AI
-
-<p>
-<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
-<img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
-<img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white" />
-<img src="https://img.shields.io/badge/NVIDIA%20Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
-<img src="https://img.shields.io/badge/Kendryte%20K230-0078D4?style=for-the-badge&logo=intel&logoColor=white" />
-<img src="https://img.shields.io/badge/FreeRTOS-008080?style=for-the-badge&logo=freertos&logoColor=white" />
-<img src="https://img.shields.io/badge/LVGL-00B4D8?style=for-the-badge&logo=c&logoColor=white" />
-</p>
-
-### 🧠 AI / LLM Stack
-<p>
-<img src="https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white" />
-<img src="https://img.shields.io/badge/DeepSeek-0052FF?style=for-the-badge&logo=deepmind&logoColor=white" />
-<img src="https://img.shields.io/badge/Qwen-6200EA?style=for-the-badge&logo=alibaba-cloud&logoColor=white" />
-<img src="https://img.shields.io/badge/vLLM-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Whisper-009688?style=for-the-badge&logo=openai&logoColor=white" />
-</p>
-
-</div>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" />
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=wangqioo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangqioo&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff" height="180" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=wangqioo&theme=tokyonight-duo&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" />
-
-</div>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" />
-
-## 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=wangqioo&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" />
-
-</div>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" />
-
-## 🌟 Featured AI + Hardware Projects
+## Featured AI + Hardware Projects
 
 <div align="center">
 
@@ -144,78 +29,33 @@ class QiWang:
 
 </div>
 
-| Project | Focus | What it does |
-| --- | --- | --- |
-| [VibeBoard](https://github.com/wangqioo/VibeBoard) | ESP-IDF, MCU, AI hardware | ESP-IDF-first workspace for generating MCU applications from natural language with board profiles and hardware-aware project files. |
-| [esp32-vibe-coder](https://github.com/wangqioo/esp32-vibe-coder) | Web IDE, ESP32, AI coding | Browser-based embedded IDE with hardware context, cloud build, OTA flashing, serial logs, and AI log analysis. |
-| [WalnutPi](https://github.com/wangqioo/WalnutPi) | Linux board, AI terminal | Portable headless Linux AI terminal covering screen UI, voice, local execution, deployment scripts, and hardware notes. |
-| [AI-Workflow-Terminal](https://github.com/wangqioo/AI-Workflow-Terminal) | Jetson Orin, edge AI | Edge AI workstation using Jetson Orin, GPU server inference, local web apps, workflow engines, and cloud relay. |
-| [k230-ai-companion](https://github.com/wangqioo/k230-ai-companion) | K230, voice, vision | AI desktop companion on the CanMV K230 board with voice interaction, expression animation, and optional perception. |
-| [Rokid-AIUI](https://github.com/wangqioo/Rokid-AIUI) | AI glasses, HUD, agents | Contract-driven AIUI development model and reference kit for reliable AI agents on Rokid AI glasses. |
-| [voice-keyboard](https://github.com/wangqioo/voice-keyboard) | Voice input, intent engine | Local voice input and intent-processing engine for desktop and device-side AI workflows. |
-| [PartRack-Hardware](https://github.com/wangqioo/PartRack-Hardware) | nRF52, BLE, hardware | Hardware and firmware workspace for an intelligent parts-management base with BLE protocol, NFC wake, LEDs, and DFU. |
-| [EspLink](https://github.com/wangqioo/EspLink) | ESP32-S3, BluFi, mini program | ESP32-S3 provisioning toolkit using a WeChat mini program, BLE scanning, BluFi Wi-Fi setup, firmware state machine, and OTA hooks. |
-| [huangshan-pi-sf32-dev](https://github.com/wangqioo/huangshan-pi-sf32-dev) | SiFli, board bring-up | Huangshan Pi / SiFli workspace documenting board/app separation, SDK usage, examples, and hardware learning notes. |
+| Project | Interesting technical angle |
+| --- | --- |
+| [VibeBoard](https://github.com/wangqioo/VibeBoard) | ESP-IDF-first AI hardware workspace: board profiles, hardware-aware project files, natural-language MCU app generation. |
+| [esp32-vibe-coder](https://github.com/wangqioo/esp32-vibe-coder) | Browser-based embedded IDE with hardware context, cloud build, OTA flashing, serial logs, and AI log analysis. |
+| [WalnutPi](https://github.com/wangqioo/WalnutPi) | Portable headless Linux AI terminal with local execution, screen UI, voice input, deploy scripts, and board notes. |
+| [AI-Workflow-Terminal](https://github.com/wangqioo/AI-Workflow-Terminal) | Jetson Orin + GPU server edge AI workstation with workflow engines, local web apps, and cloud relay. |
+| [k230-ai-companion](https://github.com/wangqioo/k230-ai-companion) | K230 desktop companion combining voice interaction, expression animation, and optional visual perception. |
+| [Rokid-AIUI](https://github.com/wangqioo/Rokid-AIUI) | Contract-driven AIUI model for reliable AI agents on glasses-style HUD devices. |
+| [voice-keyboard](https://github.com/wangqioo/voice-keyboard) | Local voice input and intent engine for desktop and device-side AI workflows. |
+| [PartRack-Hardware](https://github.com/wangqioo/PartRack-Hardware) | nRF52 hardware/firmware workspace for BLE protocol, NFC wake, LED control, and DFU on a smart parts base. |
+| [EspLink](https://github.com/wangqioo/EspLink) | ESP32-S3 provisioning flow using WeChat mini program BLE scanning, BluFi Wi-Fi setup, and firmware state machines. |
+| [huangshan-pi-sf32-dev](https://github.com/wangqioo/huangshan-pi-sf32-dev) | Huangshan Pi / SiFli workspace for board/app separation, SDK usage, examples, and hardware learning notes. |
 
----
+## Technical Themes
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" />
+- **AI-native embedded development:** board context, firmware generation, compile/flash/log feedback loops.
+- **Edge agents:** local execution, device evidence, supervised actions, recoverable deployment.
+- **Real hardware interfaces:** ESP32-S3, K230, Jetson Orin, SiFli, nRF52, BLE, BluFi, voice input, small displays.
+- **Constrained AI UI:** glasses HUD contracts, terminal-first AI UX, device dashboards, local-first control surfaces.
 
-## 📈 Contribution Activity
+## Stack I Reach For
 
-<div align="center">
+`C/C++` · `Python` · `JavaScript/TypeScript` · `ESP-IDF` · `FreeRTOS` · `Linux` · `Docker` · `React` · `FastAPI` · `BLE` · `WebSerial` · `OTA` · `LLM APIs` · `vLLM` · `FunASR`
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=wangqioo&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B&area_color=00D9FF" />
+## Contact
 
-</div>
+- GitHub: [github.com/wangqioo](https://github.com/wangqioo)
+- QQ: `1823871691`
 
----
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" />
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/wangqioo/wangqioo/blob/output/github-contribution-grid-snake-dark.svg?raw=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/wangqioo/wangqioo/blob/output/github-contribution-grid-snake.svg?raw=true" />
-  <img alt="github-snake" src="https://github.com/wangqioo/wangqioo/blob/output/github-contribution-grid-snake-dark.svg?raw=true" />
-</picture>
-
-</div>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" />
-
-## 🏙️ Based in Shanghai
-
-<div align="center">
-
-<img src="https://github.com/wangqioo/wangqioo/raw/main/shanghai.jpg" width="80%" alt="Shanghai Skyline" />
-
-<br/>
-<sub>📍 Pudong · 浦东新区</sub>
-
-</div>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" />
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wangqioo)
-[![QQ](https://img.shields.io/badge/QQ-1823871691-12B7F5?style=for-the-badge&logo=tencentqq&logoColor=white)](https://qm.qq.com)
-[![Location](https://img.shields.io/badge/📍_Shanghai,_China-FF5722?style=for-the-badge)](https://github.com/wangqioo)
-
-<br/>
-
-> *"MCUs don't think. Until I make them."* — Qi Wang
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=90&section=footer" />
