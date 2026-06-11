@@ -1,14 +1,14 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Qi%20Wang&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=38&desc=AI%20Hardware%20%7C%20Edge%20Agents%20%7C%20Embedded%20Systems&descSize=17&descAlignY=62&descAlign=50" />
 
-I build AI hardware systems, edge-agent workflows, and embedded developer tools that connect LLMs to real devices.
+I like putting AI next to real circuits: tiny screens, serial logs, BLE packets, dev boards, microphones, and the messy feedback loop where software finally touches hardware.
 
-Most of my work sits at the boundary between software and hardware: board profiles, firmware generation, local execution agents, voice input, BLE protocols, edge inference, device dashboards, and deployable prototypes.
+My projects are usually small laboratories for one question: what happens when an LLM can see the board context, write the firmware, flash the device, read the logs, and improve the next attempt?
 
 ## What I'm Exploring
 
-- Making small devices feel more like useful agents, not just connected peripherals.
-- Turning hardware development into a tight loop: describe, generate, build, flash, observe, and improve.
-- Designing constrained AI interfaces for terminals, small screens, glasses HUDs, and board dashboards.
+- Devices that feel less like peripherals and more like useful field agents.
+- Hardware development loops where describe, generate, build, flash, observe, and improve happen in one flow.
+- AI interfaces for places where normal apps do not fit: terminals, tiny displays, glasses HUDs, serial consoles, and board dashboards.
 
 ## Featured AI + Hardware Projects
 
